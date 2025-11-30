@@ -1,0 +1,27 @@
+
+--- Session started at 2025-11-30 11:41:19 ---
+--- Session Ended 2025-11-30 11:41:40 ---
+
+--- Session started at 2025-11-30 11:43:35 ---
+--- Session Ended 2025-11-30 11:43:42 ---
+
+--- Session started at 2025-11-30 13:59:57 ---
+[2025-11-30 14:00:39] ALLOCATED: Seat 1,1 given to Madhav Sharma
+ (16)
+
+--- Session started at 2025-11-30 14:04:39 ---
+[2025-11-30 14:06:08] ALLOCATED: Seat 1,2 given to Abhinav
+ (15)
+[2025-11-30 14:07:16] DEALLOCATED: Removed Madhav Sharma
+ (16)
+
+--- Session started at 2025-11-30 14:22:50 ---
+[2025-11-30 14:23:10] MANUAL-ALLOCATED: Manual seat 7,8 to Savyasachi
+ (37)
+[2025-11-30 14:24:17] ALLOCATED: Seat 1,1 given to Sarthak
+ (35)
+[2025-11-30 14:25:05] ALLOCATED: Seat 1,3 given to Shaurya
+ (39)
+[2025-11-30 14:27:02] DEALLOCATED: Removed Sarthak
+ (35)
+--- Session Ended 2025-11-30 14:29:17 ---
